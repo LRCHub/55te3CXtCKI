@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "愛しい人へ",
+  "base_artist": "ET-KING",
+  "createdAt": "2026-02-12T16:45:59.959669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "TAINAKA SACHI",
+      "has_synced": true,
+      "path": "select/01_愛しい人へ_TAINAKA_SACHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "タイナカ彩智",
+      "has_synced": false,
+      "path": "select/02_愛しい人へ_タイナカ彩智.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "タイナカ サチ",
+      "has_synced": true,
+      "path": "select/03_愛しい人へ_タイナカ_サチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "ET-KING",
+      "has_synced": true,
+      "path": "select/04_愛しい人へ_ET-KING.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きやで～愛しい人へ～",
+      "artist": "玉置成実",
+      "has_synced": false,
+      "path": "select/05_好きやで~愛しい人へ~_玉置成実.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "タイナカサチ",
+      "has_synced": true,
+      "path": "select/06_愛しい人へ_タイナカサチ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛しい人へ",
+      "artist": "タイナカサチ",
+      "has_synced": false,
+      "path": "select/07_愛しい人へ_タイナカサチ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛しい人へ",
+      "artist": "ET-KING",
+      "has_synced": false,
+      "path": "select/pl_01_愛しい人へ_ET-KING.txt"
+    }
+  ]
+}
